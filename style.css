@@ -144,7 +144,7 @@ video {
 /* Adding a text stroke effect to the main heading */
 #page1 h1::before {
 
-    content: "LAKEview";
+    content: "LAKEVIEW";
     position: absolute;
     color: #000;
     top: -6px;
